@@ -1,1 +1,1 @@
-Phpstorm-settings
+Phpstorm IDE settings
