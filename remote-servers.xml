@@ -3,14 +3,8 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://localhost:2375" />
-        <option name="certificatesPath" value="C:\workspace\devilbox\ca" />
         <option name="pathMappings">
-          <list>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="C:\workspace\projects" />
-              <option name="virtualMachinePath" value="/shared/httpd" />
-            </DockerPathMappingImpl>
-          </list>
+          <list />
         </option>
       </configuration>
     </remote-server>
