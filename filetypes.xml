@@ -8,6 +8,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="error___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="201904231232" type="PLAIN_TEXT" />
+      <mapping ext="201904231405" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
