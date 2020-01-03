@@ -5,5 +5,8 @@
       <language minSize="55" name="PHP" />
     </Languages>
   </inspection_tool>
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="EXTENSIONS" value="php,js,css,inc" />
+  </inspection_tool>
   <inspection_tool class="PhpUndefinedFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
