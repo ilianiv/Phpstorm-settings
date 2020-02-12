@@ -8,5 +8,8 @@
   <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="EXTENSIONS" value="php,js,css,inc" />
   </inspection_tool>
+  <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="IGNORE_GLOBAL_NAMESPACE" value="true" />
+  </inspection_tool>
   <inspection_tool class="PhpUndefinedFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
