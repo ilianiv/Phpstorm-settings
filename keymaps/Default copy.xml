@@ -4,10 +4,4 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="ctrl numpad5" />
-  </action>
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="ctrl numpad6" />
-  </action>
 </keymap>
