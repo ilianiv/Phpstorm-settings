@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MASTER_DB_1_2_3@LIVE" uuid="4209bd79-7174-4603-b7e7-b66c7bd14d33">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/esn_live</jdbc-url>
+    </data-source>
+  </component>
+</application>
