@@ -7,6 +7,7 @@
       <mapping pattern="flex-selectors.scss" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="error___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="201904231405" type="PLAIN_TEXT" />
