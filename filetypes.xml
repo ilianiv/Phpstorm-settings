@@ -2,17 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.ini.php" type="JSON" />
-      <mapping ext="home" type="PHP" />
       <mapping ext="tpl" type="PHP" />
+      <mapping ext="home" type="PHP" />
       <mapping pattern="flex-selectors.scss" type="PLAIN_TEXT" />
-      <mapping pattern="browserslist" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="browserslist" type="PLAIN_TEXT" />
       <mapping ext="error___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="201904231405" type="PLAIN_TEXT" />
-      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />

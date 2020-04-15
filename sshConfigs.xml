@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="94.237.87.67" id="3927c810-a495-4dba-90de-8ade7e9b1422" keyPath="C:\Users\IliyanIvanov\.ssh\upcloud\upcloud_key" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</application>
