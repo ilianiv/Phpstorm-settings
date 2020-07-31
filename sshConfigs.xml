@@ -1,7 +1,12 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="94.237.28.171" id="3927c810-a495-4dba-90de-8ade7e9b1422" keyPath="C:\Users\IliyanIvanov\.ssh\upcloud\upcloud_key" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="94.237.87.76" id="3927c810-a495-4dba-90de-8ade7e9b1422" keyPath="C:\Users\IliyanIvanov\.ssh\upcloud\upcloud_key" port="22" customName="DB Cluster" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="DB Cluster" />
+      </sshConfig>
+      <sshConfig host="94.237.28.171" id="3927c810-a495-4dba-90de-8ade7e9b1422" keyPath="C:\Users\IliyanIvanov\.ssh\upcloud\upcloud_key" port="22" customName="ESN SSH" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="ESN SSH" />
+      </sshConfig>
     </configs>
   </component>
 </application>
