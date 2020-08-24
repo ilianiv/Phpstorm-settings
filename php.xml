@@ -120,7 +120,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="fd1eaced-da6b-476d-b861-60fe87e6e61f" />
+      <phpunit_by_interpreter interpreter_id="fd1eaced-da6b-476d-b861-60fe87e6e61f" configuration_file_path="/shared/httpd/etg/core/build/phpunit.xml" custom_loader_path="/shared/httpd/etg/core/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
