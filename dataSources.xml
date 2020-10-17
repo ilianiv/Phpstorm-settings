@@ -4,13 +4,13 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/esn_live</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="PEPPER" uuid="f9261090-77ef-4c36-a288-d9b73a76d909">
+    <data-source source="LOCAL" name="PEPPER_DB" uuid="e74a346f-e24a-4838-a8eb-b556d2854daf">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
+      <jdbc-url>jdbc:mysql://10.10.1.40:3306</jdbc-url>
     </data-source>
   </component>
 </application>
